@@ -1,0 +1,10 @@
+{
+  "total_events": 3326,
+  "average_stay": 216.7904838064774,
+  "median_stay": 2.0,
+  "unique_screens": 7,
+  "unique_sessions": 187,
+  "unique_devices": 22,
+  "time_range_start": "2025-10-30 16:06:19.384000",
+  "time_range_end": "2025-11-10 23:54:06.239000"
+}
